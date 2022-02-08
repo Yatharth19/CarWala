@@ -1,0 +1,26 @@
+body {
+    /* background-color: lightblue; */
+  color: red;
+  /* backface-visibility: hidden; */
+  font-size: larger;
+  font-style: normal;
+  font-weight: bolder;
+  background-image: rgba(0,0,0,.5);;
+}
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+.input{
+  width: 15em;
+}
+
+.submit{
+  margin-left: 18em;
+  height: 3em;
+  width: 6em;
+  margin-top: 3em;
+
+}
