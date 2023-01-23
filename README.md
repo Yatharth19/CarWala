@@ -12,4 +12,4 @@ There are lots of individuals who are interested in the used car market at some 
 
 In this Project, we are going to predict the Price of Used Cars using various features like Car_name, Selling_Price, Kms_Driven, Fuel_Type, Year etc. The data used in this project was downloaded from Kaggle.
 
-This web app is live at: https://car-wala.herokuapp.com/
+This web app is live at: https://car-wala.onrender.com/
